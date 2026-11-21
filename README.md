@@ -61,5 +61,5 @@ This tool supports communication only. It does not replace a certified translato
 
 ---
 
-**Otè / Author:** Steve JACQUES ([@SteveJ509](https://github.com/SteveJ509))
+**Otè / Author:** Steve Jacques ([@SteveJ509](https://github.com/SteveJ509))
 **Lisans / License:** Apache 2.0
