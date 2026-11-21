@@ -1,6 +1,6 @@
 ---
 name: kreyol-ayisyen
-description: Ekri, korije, tradui ak eksplike Kreyòl ayisyen ak òtograf ofisyèl la. Use when the user writes in Haitian Creole (Kreyòl ayisyen), asks for a translation to or from Haitian Creole, wants Creole text corrected, or asks about Haitian Creole grammar, spelling, proverbs or culture.
+description: Write, correct and translate Haitian Creole (Kreyòl ayisyen) with the official spelling. Use for Kreyòl text, translation to or from Kreyòl, grammar and proverbs.
 license: Apache-2.0
 metadata:
   author: "Steve Jacques (@SteveJ509)"
