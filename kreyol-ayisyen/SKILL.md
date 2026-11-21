@@ -3,7 +3,7 @@ name: kreyol-ayisyen
 description: Ekri, korije, tradui ak eksplike Kreyòl ayisyen ak òtograf ofisyèl la. Use when the user writes in Haitian Creole (Kreyòl ayisyen), asks for a translation to or from Haitian Creole, wants Creole text corrected, or asks about Haitian Creole grammar, spelling, proverbs or culture.
 license: Apache-2.0
 metadata:
-  author: SteveJ509
+  author: "Steve JACQUES (@SteveJ509)"
   version: "0.1.0"
   language: ht
 ---
