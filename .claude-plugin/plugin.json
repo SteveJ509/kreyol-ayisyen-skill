@@ -1,0 +1,13 @@
+{
+  "name": "kreyol-ayisyen",
+  "version": "0.1.0",
+  "description": "Write, correct and translate Haitian Creole (Kreyòl ayisyen) with the official spelling, grammar guidance and proverbs.",
+  "author": {
+    "name": "Steve Jacques",
+    "url": "https://github.com/SteveJ509"
+  },
+  "homepage": "https://github.com/SteveJ509/kreyol-ayisyen-skill",
+  "repository": "https://github.com/SteveJ509/kreyol-ayisyen-skill",
+  "license": "Apache-2.0",
+  "keywords": ["haitian-creole", "kreyol", "kreyol-ayisyen", "translation", "language", "haiti"]
+}

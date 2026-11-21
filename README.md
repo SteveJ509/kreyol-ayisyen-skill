@@ -27,7 +27,7 @@ Li mache ak Claude ak lòt zouti ki sipòte estanda ouvè [Agent Skills](https:/
   2. Nan Claude, ale nan **Customize → Skills** ([claude.ai/customize](https://claude.ai/customize)).
   3. Klike **+**, apre sa **+ Create skill**, epi **Upload a skill**.
   4. Chwazi fichye ZIP la, epi asire w skill la aktive.
-- **Claude Code ak lòt zouti:** Kopye dosye `kreyol-ayisyen` la nan dosye skills zouti w la (pa egzanp `~/.claude/skills/`).
+- **Claude Code ak lòt zouti:** Kopye dosye `skills/kreyol-ayisyen` la nan dosye skills zouti w la (pa egzanp `~/.claude/skills/`).
 
 ### Kontribye
 
