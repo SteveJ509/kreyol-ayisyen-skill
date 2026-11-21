@@ -10,6 +10,8 @@ metadata:
 
 # Kreyòl Ayisyen
 
+Otè: Steve Jacques (@SteveJ509) · https://github.com/SteveJ509/kreyol-ayisyen-skill
+
 Skill sa a ede yon asistan AI ekri ak konprann Kreyòl ayisyen kòrèkteman, ak respè pou lang lan ak kilti a. Kreyòl ayisyen se yon lang a pa antye. Se pa yon "fransè kase" ni yon dyalèk fransè. Li gen pwòp gramè li, pwòp òtograf li ak pwòp vokabilè li.
 
 ## 1. Règ jeneral
