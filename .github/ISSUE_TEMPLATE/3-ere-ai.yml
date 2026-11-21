@@ -1,0 +1,31 @@
+name: 🤖 Erè AI a fè
+description: Yon AI ekri Kreyòl mal, menm avèk skill la aktive
+title: "[Erè AI] "
+labels: ["ere-ai"]
+body:
+  - type: input
+    id: zouti
+    attributes:
+      label: Ki zouti AI?
+      placeholder: "Pa egzanp: Claude, ChatGPT, Cursor..."
+    validations:
+      required: true
+  - type: textarea
+    id: demand
+    attributes:
+      label: Kisa w te mande l?
+    validations:
+      required: true
+  - type: textarea
+    id: repons
+    attributes:
+      label: Kisa li reponn?
+      description: Kopye repons lan, oswa pati ki gen erè a.
+    validations:
+      required: true
+  - type: textarea
+    id: korek
+    attributes:
+      label: Kisa li ta dwe di?
+    validations:
+      required: true

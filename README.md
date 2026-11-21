@@ -36,7 +36,7 @@ Pwojè sa a se pou kominote a. Ou ka ede:
 - Ajoute mo, ekspresyon ak pwovèb
 - Ajoute diferans pa rejyon (Nò, Sid, Lwès...)
 
-Louvri yon **Issue** oswa yon **Pull Request**. Men anpil, chay pa lou! 🤝
+Ou pa bezwen konn pwogramasyon pou w ede. Li [gid kontribisyon an](CONTRIBUTING.md), oswa louvri yon [Issue](https://github.com/SteveJ509/kreyol-ayisyen-skill/issues/new/choose) dirèkteman. Men anpil, chay pa lou! 🤝
 
 ### ⚠️ Avètisman
 
@@ -58,6 +58,10 @@ Works with Claude and any tool that supports the open [Agent Skills](https://age
 - Meaning-based translation
 - Proverbs with explanations
 - Automatic disclaimer for health and legal content
+
+### Contributing
+
+No coding needed. See [CONTRIBUTING.md](CONTRIBUTING.md) or [open an issue](https://github.com/SteveJ509/kreyol-ayisyen-skill/issues/new/choose).
 
 ### Disclaimer
 

@@ -1,0 +1,33 @@
+name: 🔤 Koreksyon
+description: Rapòte yon erè òtograf, gramè oswa sans nan skill la
+title: "[Koreksyon] "
+labels: ["koreksyon"]
+body:
+  - type: textarea
+    id: ere
+    attributes:
+      label: Kisa ki pa kòrèk?
+      description: Kopye mo oswa fraz ki gen erè a.
+      placeholder: "Pa egzanp: Seksyon 4 di 'radyo a', men..."
+    validations:
+      required: true
+  - type: textarea
+    id: koreksyon
+    attributes:
+      label: Kijan li ta dwe ekri?
+      placeholder: "Pa egzanp: ..."
+    validations:
+      required: true
+  - type: textarea
+    id: rezon
+    attributes:
+      label: Poukisa? (si w konnen)
+      description: Yon ti eksplikasyon, oswa ki rejyon moun pale konsa.
+  - type: dropdown
+    id: sitid
+    attributes:
+      label: Ki jan ou sèten?
+      options:
+        - Mwen sèten nèt
+        - Mwen panse se konsa, men tcheke l
+        - Se yon kesyon m genyen

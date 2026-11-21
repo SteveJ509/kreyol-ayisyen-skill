@@ -1,0 +1,38 @@
+name: 📖 Nouvo mo, ekspresyon oswa pwovèb
+description: Ajoute yon mo, yon ekspresyon oswa yon pwovèb Kreyòl
+title: "[Nouvo] "
+labels: ["nouvo-kontni"]
+body:
+  - type: dropdown
+    id: kalite
+    attributes:
+      label: Kisa w ap ajoute?
+      options:
+        - Yon mo
+        - Yon ekspresyon
+        - Yon pwovèb
+    validations:
+      required: true
+  - type: input
+    id: kreyol
+    attributes:
+      label: An Kreyòl
+      placeholder: "Pa egzanp: Bourik travay, chwal galonnen."
+    validations:
+      required: true
+  - type: textarea
+    id: sans
+    attributes:
+      label: Sa sa vle di
+      description: Ekri l ak pwòp mo pa w. Pa kopye nan yon diksyonè.
+    validations:
+      required: true
+  - type: input
+    id: angle
+    attributes:
+      label: An Anglè (si w konnen)
+  - type: input
+    id: rejyon
+    attributes:
+      label: Rejyon (si li espesyal pou yon rejyon)
+      placeholder: "Pa egzanp: Nò, Sid, Grandans, Pòtoprens..."
